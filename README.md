@@ -26,21 +26,29 @@
 ### Формула Герона
 Тест 1
 ![1_1](geron/screenshots/test1_1.png)
+
 Тест 2
 ![2_1](geron/screenshots/test2_1.png)
+
 Тест 3
 ![3_1](geron/screenshots/test3_1.png)
+
 ### Конвертер расстояний
 Тест 1
 ![1_2](converter/screenshots/test1_2.png)
+
 Тест 2
 ![2_2](converter/screenshots/test2_2.png)
+
 Тест 3
 ![3_2](converter/screenshots/test3_2.png)
+
 ### Високосный год
 Тест 1
 ![1_3](leap_year/screenshots/test1_3.png)
+
 Тест 2
 ![2_3](leap_year/screenshots/test2_3.png)
+
 Тест 3
 ![3_3](leap_year/screenshots/test3_3.png)
